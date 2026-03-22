@@ -25,8 +25,8 @@ Ethiopian smallholder farmers — who represent over 80% of the country's agricu
 
 | Full Name | Technical Role |
 |-----------|---------------|
-| [Yitayal Minale – Team Lead] | 🛠️ DevOps & Testing Lead |
-| Yabibal Mengiste | 🎨 UI/UX Implementation Lead |
+| [Yabibal Mengiste – Team Lead] | 🛠️ DevOps & Testing Lead |
+| Yitayal Minale | 🎨 UI/UX Implementation Lead |
 | [Mosisa ABU | 🗄️ Database & State Lead |
 | Olijira Mane| ⚙️ Core Logic & Services Lead |
 | Shalom  | 🌐 Network & API Lead |
