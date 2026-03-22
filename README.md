@@ -35,7 +35,7 @@ Ethiopian smallholder farmers — who represent over 80% of the country's agricu
 
 | Resource | Link |
 |----------|------|
-| 🎨 **Figma Design Board** | [View Wireframes & User Flow](#) ← https://www.figma.com/design/Aptr7B57pJnqF8dQc9OFaD/Untitled?node-id=11-5&t=FkYWe9fjk15rLdFz-1|
+| 🎨 **Figma Design Board** | [View Wireframes & User Flow](#) ←https://www.figma.com/make/yTPOviUrUKaP8r8HBIzj3K/FarmerLink-ET-Wireframes?t=1Tp0CM4PEgowAJYq-1&preview-route=%2Fapp%2Fmarketplace|
 | 📋 **Jira Project Board** | [View Sprint & Backlog](#) ← *https://yabudreamer3.atlassian.net/jira/software/projects/SCRUM/boards/1* |
 | 📄 **Project Proposal** | [`/docs/Project_Proposal.pdf`](./docs/Project_Proposal.pdf) |
 ## 🗓️ Project Phases
