@@ -25,8 +25,8 @@ Ethiopian smallholder farmers — who represent over 80% of the country's agricu
 
 | Full Name | Technical Role |
 |-----------|---------------|
-| [Yabibal Mengiste – Team Lead] | 🛠️ DevOps & Testing Lead |
-| Yitayal Minale | 🎨 UI/UX Implementation Lead |
+| [Yitayal Minale – Team Lead] | 🛠️ DevOps & Testing Lead |
+| Yabibal mengiste | 🎨 UI/UX Implementation Lead |
 | [Mosisa ABU | 🗄️ Database & State Lead |
 | Olijira Mane| ⚙️ Core Logic & Services Lead |
 | Shalom  | 🌐 Network & API Lead |
@@ -37,7 +37,7 @@ Ethiopian smallholder farmers — who represent over 80% of the country's agricu
 |----------|------|
 | 🎨 **Figma Design Board** | [View Wireframes & User Flow](#) ←https://www.figma.com/make/yTPOviUrUKaP8r8HBIzj3K/FarmerLink-ET-Wireframes?t=1Tp0CM4PEgowAJYq-1&preview-route=%2Fapp%2Fmarketplace|
 | 📋 **Jira Project Board** | [View Sprint & Backlog](#) ← *https://yabudreamer3.atlassian.net/jira/software/projects/SCRUM/boards/1* |
-| 📄 **Project Proposal** | [`/docs/Project_Proposal.pdf`](./docs/Project_Proposal.pdf) |
+| 📄 **Project Proposal** | [`/docs/Project_Proposal.pdf`]()
 ## 🗓️ Project Phases
 
 - [x] **Phase 1** — Ideation & Infrastructure *(current)*
